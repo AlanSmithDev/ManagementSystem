@@ -1,0 +1,70 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Build
+dist/
+build/
+out/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database
+*.db
+*.sqlite
+*.sql.bak
+
+# Temp
+*.tmp
+*.bak
+*.backup
+.cache/
+
+# Excel/Word temp
+~$*
+
+# Sensitive files
+*.pem
+*.pkcs8
+*.key
+credentials.json
+application-secure.yml
+application-private.yml
