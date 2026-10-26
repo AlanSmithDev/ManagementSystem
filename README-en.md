@@ -1,3 +1,6 @@
+> 📌 本仓库为第三方开源项目的学习镜像，原作者保留所有权利。
+> 上游：https://github.com/yudaocode/yudao-cloud
+
 # yudao-cloud - Modern Microservice Architecture Platform
 
 <p align="center">
